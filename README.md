@@ -2,7 +2,7 @@
 
 <!-- Başlık ve Animasyon -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Merhaba%2C+Ben+Narin+Rabia!+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Teknoloji+ile+Gelece%C4%9Fi+%C4%B0n%C5%9Fa+Eden" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Merhaba%2C+Ben+Enes+Talha!+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Teknoloji+ile+Gelece%C4%9Fi+%C4%B0n%C5%9Fa+Eden" alt="Typing SVG" />
 </h1>
 
 <!-- Ziyaretçi Sayacı -->
